@@ -1,0 +1,10 @@
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\BFDecypher.csproj.AssemblyReference.cache
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\BFDecypher.csproj.GenerateResource.cache
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\BFDecypher.csproj.CoreCompileInputs.cache
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#\BFDecypher\BrainfuckDecypher\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
